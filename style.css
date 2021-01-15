@@ -1,0 +1,78 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+header{
+    background-color:#ffffff;
+}
+.nav-item{
+    color: black;
+}
+.part-1{
+    background-color: #ffffff;
+}
+.logo{
+    width: 200px;
+}
+.btn{
+    background-color: orange;
+}
+.green{
+    width: 100%;
+}
+.heilight{
+    color:#1abc9c;
+}
+.col-md-6.top{
+    margin-top: 140px;
+}
+.btn .shop{
+    padding: 20px 30px;
+}
+.shoping-icon{
+    height: 20px;
+    padding-right: 10px;
+}
+.text{
+    padding-left: 20px;
+}
+.icon{
+   height: 80px; 
+}
+.shop{
+    width: 100%;
+}
+.part{
+    display: flex;
+    width: 100%;
+    border-radius: 10px;
+}
+.part-2{
+    margin-top: 40px;
+}
+.shadow-lg{
+    border-radius: 10px;
+}
+h2{
+    position: absolute;
+    color: coral;
+}
+.card{
+    padding-left: 35px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 40px;
+}
+.card-img-top{
+    border-radius: 10px;
+    background-color: #ecf0f1;
+}
+.Qr{
+    width: 60%;
+    margin-top: 20px;
+}
+.part-5{
+    background-color:  #ecf0f1;
+}
+.col-md-3{
+    margin-top: 20px;
+}
